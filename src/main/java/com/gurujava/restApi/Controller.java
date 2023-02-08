@@ -10,3 +10,6 @@ public class Controller {
         return "hello world";
     }
 }
+
+
+//                           http://localhost:8080/test
